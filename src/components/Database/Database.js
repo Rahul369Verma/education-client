@@ -63,6 +63,8 @@ export const Database = () => {
               <p>{d.addressLine2}</p>
               <label>Postal Code</label>
               <p>{d.postalCode}</p>
+              <label>City</label>
+              <p>{d.city}</p>
             </div>
           </div>
         </div>
