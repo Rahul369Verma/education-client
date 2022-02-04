@@ -1,0 +1,16 @@
+.address-container{
+  width: 100%;
+  height: 130vh;
+  background-color: aliceblue;
+  border: 4px black;
+}
+.address-card{
+  width: 70%;
+  /* background-color: rgba(49, 177, 252, 0.877); */
+  margin-left: auto;
+  margin-right: auto;
+}
+.continue{
+  margin-top: 2rem;
+  margin-left: 46%;
+}

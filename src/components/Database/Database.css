@@ -1,0 +1,13 @@
+.database-container{
+  width: 100%;
+  height: auto;
+  background-color: aliceblue;
+  border: 4px black;
+}
+.database-card{
+  width: 70%;
+  margin-bottom: 2rem;
+  /* background-color: rgba(49, 177, 252, 0.877); */
+  margin-left: auto;
+  margin-right: auto;
+}
